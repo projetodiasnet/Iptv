@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tvsenado" group-title="Públicos",TV Senado
+https://stream3.camara.gov.br/tvsenado/manifest.m3u8
+
+#EXTINF:-1 tvg-id="tvcamara" group-title="Públicos",TV Câmara
+https://stream3.camara.gov.br/tvcamara/manifest.m3u8
+
+#EXTINF:-1 tvg-id="tvcultura" group-title="Educativos",TV Cultura
+http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF:-1 tvg-id="redevida" group-title="Religiosos",Rede Vida
+http://tv01.logicahost.com.br:1935/redevida/redevida/live.m3u8
